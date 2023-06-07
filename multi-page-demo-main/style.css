@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+}
+
+.nav a {
+  margin: 0px 25px;
+}
+
+Html {
+  background: url("img/Minecraft-Logo.png") center no-repeat fixed;
+  background-size: cover;
+  background-color: black;
+}
+p {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+body {
+  margin: 25px auto;
+  text-align: center;
+  width: 600px;
+  padding: 50px;
+  border-radius: 10px;
+}
